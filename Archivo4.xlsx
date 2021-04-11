@@ -1,0 +1,29 @@
+El contenido del archivo 2 es:
+[[2], [5], [3]]
+
+La serie con el contenido del archivo 2 es:
+0    [2]
+1    [5]
+2    [3]
+dtype: object
+
+La serie con el contenido del archivo 2 con sus respectivos nombres de celdas es:
+A1    [2]
+A2    [5]
+A3    [3]
+dtype: object
+
+Se creó una serie nueva llamada a, la cual es la siguiente:
+A4    4
+A5    7
+A6    1
+dtype: int64
+
+Si sumamos la serie del archivo 2 con la nueva serie a obtenemos la siguiente serie:
+A1    [2]
+A2    [5]
+A3    [3]
+A4      4
+A5      7
+A6      1
+dtype: object

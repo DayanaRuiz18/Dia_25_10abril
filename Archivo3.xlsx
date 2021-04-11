@@ -1,0 +1,14 @@
+El contenido del archivo 1 es:
+[[3], [2], [5]]
+
+La serie con el contenido del archivo 1 es:
+0    [3]
+1    [2]
+2    [5]
+dtype: object
+
+La serie con el contenido del archivo 1 con sus respectivos nombres de celdas es:
+A1    [3]
+A2    [2]
+A3    [5]
+dtype: object
